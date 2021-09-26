@@ -1,0 +1,2 @@
+Expect an origin and destination as command line arguments
+- When the user starts the program, they should supply an origin-destination pair and see a usage message otherwise
